@@ -8,9 +8,9 @@ Dockerfile
 
 <img src="https://i.imgur.com/5k9yfKh.png" width="680" height="410">
 
-docker-compose.yml
+docker-compose
 
-<img src="https://imgur.com/U5sQX4b" width="540" height="540">
+<img src="https://i.imgur.com/U5sQX4b.png" width="540" height="540">
 
 
 
