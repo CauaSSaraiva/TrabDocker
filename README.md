@@ -8,10 +8,6 @@
 
 ## Instalação do Projeto
 
----
-
-## Executando a aplicação
-
 1°:
 ```bash
 docker-compose down
